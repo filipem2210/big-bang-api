@@ -32,6 +32,6 @@
     "url": "https://github.com/filipem2210"
   },
   "engines": {
-    "node": "14.x"
+    "node": ">=12.4.0"
   }
 }
