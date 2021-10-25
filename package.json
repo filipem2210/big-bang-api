@@ -1,0 +1,32 @@
+{
+  "name": "big-bang-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A template API",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipem2210/big-bang-api.git"
+  },
+  "homepage": "https://github.com/filipem2210/big-bang-api#readme",
+  "bugs": {
+    "url": "https://github.com/filipem2210/big-bang-api/issues",
+    "email": "filipemoraes2210@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Filipe Moraes",
+    "email": "filipemoraes2210@gmail.com",
+    "url": "https://github.com/filipem2210"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
