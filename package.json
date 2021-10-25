@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.8"
+  },
   "keywords": [
     "typescript",
     "nodejs",
