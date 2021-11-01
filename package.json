@@ -12,7 +12,8 @@
     "test:staged": "npm test -- --findRelatedTests",
     "test:ci": "npm test -- --coverage",
     "prepare": "husky install",
-    "check:updates": "npx npm-check -s -u"
+    "check:updates": "npx npm-check -s -u",
+    "check:security": "npx snyk test"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
