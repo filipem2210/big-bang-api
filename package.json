@@ -13,7 +13,7 @@
     "test:ci": "npm test -- --coverage",
     "prepare": "husky install",
     "check:updates": "npx npm-check -s -u",
-    "check:security": "npx snyk test"
+    "check:security": "npm audit && npx snyk test"
   },
   "devDependencies": {
     "@types/jest": "^27.0.2",
